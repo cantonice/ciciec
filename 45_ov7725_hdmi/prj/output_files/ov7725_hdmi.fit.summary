@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Apr 18 17:16:24 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : ov7725_hdmi
+Top-level Entity Name : ov7725_hdmi
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,296 / 10,320 ( 13 % )
+    Total combinational functions : 1,171 / 10,320 ( 11 % )
+    Dedicated logic registers : 651 / 10,320 ( 6 % )
+Total registers : 667
+Total pins : 66 / 180 ( 37 % )
+Total virtual pins : 0
+Total memory bits : 32,768 / 423,936 ( 8 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 2 / 2 ( 100 % )

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Apr 18 17:16:15 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : ov7725_hdmi
+Top-level Entity Name : ov7725_hdmi
+Family : Cyclone IV E
+Total logic elements : 1,338
+    Total combinational functions : 1,165
+    Dedicated logic registers : 651
+Total registers : 667
+Total pins : 66
+Total virtual pins : 0
+Total memory bits : 32,768
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

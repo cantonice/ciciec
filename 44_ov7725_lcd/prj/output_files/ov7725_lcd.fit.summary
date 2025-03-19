@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu May 09 19:47:09 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : ov7725_lcd
+Top-level Entity Name : ov7725_lcd
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 1,372 / 10,320 ( 13 % )
+    Total combinational functions : 1,254 / 10,320 ( 12 % )
+    Dedicated logic registers : 578 / 10,320 ( 6 % )
+Total registers : 578
+Total pins : 78 / 180 ( 43 % )
+Total virtual pins : 0
+Total memory bits : 32,768 / 423,936 ( 8 % )
+Embedded Multiplier 9-bit elements : 2 / 46 ( 4 % )
+Total PLLs : 1 / 2 ( 50 % )

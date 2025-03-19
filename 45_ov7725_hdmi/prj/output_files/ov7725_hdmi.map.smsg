@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at video_driver.v(34): object "h_disp" differs only in case from object "H_DISP" in the same scope File: E:/ZEYI/FPGA/EP4C/Finalize/7_ov7725_hdmi/rtl/hdmi/video_driver.v Line: 34
+Info (10281): Verilog HDL Declaration information at video_driver.v(35): object "v_disp" differs only in case from object "V_DISP" in the same scope File: E:/ZEYI/FPGA/EP4C/Finalize/7_ov7725_hdmi/rtl/hdmi/video_driver.v Line: 35
